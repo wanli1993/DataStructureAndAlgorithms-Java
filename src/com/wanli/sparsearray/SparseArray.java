@@ -15,6 +15,7 @@ import java.util.Random;
  */
 public class SparseArray {
 	public static void main(String[] args) throws IOException {
+		
 		// 1.创建一个元素数组 10*10
 		int chessArr[][] = new int[10][10];
 		Random random=new Random();
