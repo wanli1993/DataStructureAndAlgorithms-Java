@@ -1,7 +1,7 @@
 package com.wanli.linkedlist;
 
 /**
- * 单向链表
+ * 单向链表测试
  * 
  * @author 万里
  *
@@ -25,7 +25,7 @@ public class SingleLinkedListDemo {
 		singleLinkedList.list();
 		// 5.创建链表
 		singleLinkedList = new SingleLinkedList();
-		// 6.按照no排序
+		// 6.按照no排序，节点的编号
 		singleLinkedList.addByOrder(hero1);
 		singleLinkedList.addByOrder(hero4);
 		singleLinkedList.addByOrder(hero2);
